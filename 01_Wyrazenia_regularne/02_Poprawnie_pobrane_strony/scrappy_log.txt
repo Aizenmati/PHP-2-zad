@@ -1,0 +1,461 @@
+2020-11-15 14:10:20 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'nashvegas.readthedocs.org': <GET http://nashvegas.readthedocs.org/en/latest/?redir>
+2020-11-15 14:10:20 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'mikecantelon.com': <GET http://mikecantelon.com/story/installing_django_on_centos_5>
+2020-11-15 14:10:21 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1386> (referer: https://www.djangoproject.com/community/links/?page=1385)
+2020-11-15 14:10:21 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1386>
+2020-11-15 14:10:21 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'wingware.com': <GET http://wingware.com/>
+2020-11-15 14:10:21 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'drupal.atzok.com': <GET http://drupal.atzok.com/howto_django_ec2>
+2020-11-15 14:10:21 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=830> (referer: https://www.djangoproject.com/community/q-and-a/?page=829)
+2020-11-15 14:10:22 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=830>
+2020-11-15 14:10:22 [scrapy.core.engine] DEBUG: Crawled (404) <GET http://docs.djangoproject.com/en/1.2/howto/static-files/> (referer: None)
+2020-11-15 14:10:22 [scrapy.core.scraper] DEBUG: Scraped from <404 http://docs.djangoproject.com/en/1.2/howto/static-files/>
+2020-11-15 14:10:22 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1387> (referer: https://www.djangoproject.com/community/links/?page=1386)
+2020-11-15 14:10:22 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1387>
+2020-11-15 14:10:22 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'versae.github.com': <GET http://versae.github.com/qbe/>
+2020-11-15 14:10:22 [scrapy.core.engine] DEBUG: Crawled (404) <GET http://docs.djangoproject.com/en/dev/ref/contrib/localflavor/#united-states-of-america-us> (referer: None)
+2020-11-15 14:10:22 [scrapy.core.scraper] DEBUG: Scraped from <404 http://docs.djangoproject.com/en/dev/ref/contrib/localflavor/>
+2020-11-15 14:10:23 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1388> (referer: https://www.djangoproject.com/community/links/?page=1387)
+2020-11-15 14:10:23 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1388>
+2020-11-15 14:10:23 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.askapache.com': <GET http://www.askapache.com/htaccess/speed-up-sites-with-htaccess-caching.html>
+2020-11-15 14:10:23 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'en.gravatar.com': <GET http://en.gravatar.com/site/implement/images/django/>
+2020-11-15 14:10:23 [scrapy.core.engine] DEBUG: Crawled (404) <GET http://docs.djangoproject.com/en/1.3/howto/static-files/> (referer: None)
+2020-11-15 14:10:23 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=831> (referer: https://www.djangoproject.com/community/q-and-a/?page=830)
+2020-11-15 14:10:23 [scrapy.core.scraper] DEBUG: Scraped from <404 http://docs.djangoproject.com/en/1.3/howto/static-files/>
+2020-11-15 14:10:23 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=831>
+2020-11-15 14:10:23 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1389> (referer: https://www.djangoproject.com/community/links/?page=1388)
+2020-11-15 14:10:24 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1389>
+2020-11-15 14:10:24 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'j-lite.net': <GET http://j-lite.net/blog/2009/11/18/using-paypal-express-checkout-in-django>
+2020-11-15 14:10:24 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1390> (referer: https://www.djangoproject.com/community/links/?page=1389)
+2020-11-15 14:10:24 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=832> (referer: https://www.djangoproject.com/community/q-and-a/?page=831)
+2020-11-15 14:10:24 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1390>
+2020-11-15 14:10:24 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'modeling-languages.com': <GET http://modeling-languages.com/content/uml2python-full-code-generator-python-applications>
+2020-11-15 14:10:24 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.ctctlabs.com': <GET http://www.ctctlabs.com/index.php/blog/detail/rails_vs_django/>
+2020-11-15 14:10:24 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=832>
+2020-11-15 14:10:25 [scrapy.core.engine] DEBUG: Crawled (404) <GET http://docs.djangoproject.com/en/1.2/topics/signals/> (referer: None)
+2020-11-15 14:10:25 [scrapy.core.scraper] DEBUG: Scraped from <404 http://docs.djangoproject.com/en/1.2/topics/signals/>
+2020-11-15 14:10:25 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1391> (referer: https://www.djangoproject.com/community/links/?page=1390)
+2020-11-15 14:10:25 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1391>
+2020-11-15 14:10:25 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'cburgmer.posterous.com': <GET http://cburgmer.posterous.com/comparing-django-orm-sqlalchemy-surf>
+2020-11-15 14:10:25 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.mondoinformatico.info': <GET http://www.mondoinformatico.info/wordpress-arriva-alla-versione-3-1-1-prestate-attenzione-allaggiornamento_post-39747.html>
+2020-11-15 14:10:25 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.halotis.com': <GET http://www.halotis.com/2011/05/09/automatic-blog-machine-launched/>
+2020-11-15 14:10:25 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.kolios.dk': <GET http://www.kolios.dk/2010/01/22/how-to-extend-django-user-class-and-change-authentication-middleware/>
+2020-11-15 14:10:26 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=833> (referer: https://www.djangoproject.com/community/q-and-a/?page=832)
+2020-11-15 14:10:26 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=833>
+2020-11-15 14:10:26 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1392> (referer: https://www.djangoproject.com/community/links/?page=1391)
+2020-11-15 14:10:26 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1392>
+2020-11-15 14:10:26 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'techcrunch.com': <GET http://techcrunch.com/2011/05/07/why-the-new-guy-cant-code/>
+2020-11-15 14:10:26 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'blog.moocss.com': <GET http://blog.moocss.com/tutorials/python-tutorials/341.html>
+2020-11-15 14:10:26 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'fightingrabbits.com': <GET http://fightingrabbits.com/archives/208>
+2020-11-15 14:10:27 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1393> (referer: https://www.djangoproject.com/community/links/?page=1392)
+2020-11-15 14:10:27 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1393>
+2020-11-15 14:10:27 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'splike.com': <GET http://splike.com/wiki/Convert_Django_Templates_to_Jinja2>
+2020-11-15 14:10:27 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=834> (referer: https://www.djangoproject.com/community/q-and-a/?page=833)
+2020-11-15 14:10:27 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=834>
+2020-11-15 14:10:27 [scrapy.core.engine] DEBUG: Crawled (404) <GET http://docs.djangoproject.com/en/1.3/topics/http/file-uploads/> (referer: None)
+2020-11-15 14:10:27 [scrapy.core.scraper] DEBUG: Scraped from <404 http://docs.djangoproject.com/en/1.3/topics/http/file-uploads/>
+2020-11-15 14:10:28 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1394> (referer: https://www.djangoproject.com/community/links/?page=1393)
+2020-11-15 14:10:28 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1394>
+2020-11-15 14:10:28 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.zeuux.org': <GET http://www.zeuux.org/blog/content/2894/>
+2020-11-15 14:10:28 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'blog.ftao.org': <GET http://blog.ftao.org/2011/04/17/django-tips/>
+2020-11-15 14:10:28 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'justindriscoll.us': <GET http://justindriscoll.us/2008/11/setting-up-django-development-virtual.html>
+2020-11-15 14:10:28 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.e-creart.com': <GET http://www.e-creart.com/2009/11/14/nginx-django-on-webfaction/>
+2020-11-15 14:10:28 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'blog.evendanan.net': <GET http://blog.evendanan.net/2011/03/SimplyMe-First-Iteration>
+2020-11-15 14:10:28 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=835> (referer: https://www.djangoproject.com/community/q-and-a/?page=834)
+2020-11-15 14:10:28 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=835>
+2020-11-15 14:10:29 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1395> (referer: https://www.djangoproject.com/community/links/?page=1394)
+2020-11-15 14:10:29 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1395>
+2020-11-15 14:10:29 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'support.eapps.com': <GET https://support.eapps.com/index.php?/Knowledgebase/Article/View/168/1/user-guide---django>
+2020-11-15 14:10:29 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'wiki.alwaysdata.com': <GET http://wiki.alwaysdata.com/wiki/Deploying_a_Django_App>
+2020-11-15 14:10:29 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'originell.org': <GET http://originell.org/blog/2010/09/19/lighttpd-xsendfile/>
+2020-11-15 14:10:29 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1396> (referer: https://www.djangoproject.com/community/links/?page=1395)
+2020-11-15 14:10:29 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1396>
+2020-11-15 14:10:30 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=836> (referer: https://www.djangoproject.com/community/q-and-a/?page=835)
+2020-11-15 14:10:30 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=836>
+2020-11-15 14:10:30 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1397> (referer: https://www.djangoproject.com/community/links/?page=1396)
+2020-11-15 14:10:30 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1397>
+2020-11-15 14:10:30 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.jeffkit.info': <GET http://www.jeffkit.info/2010/07/467>
+2020-11-15 14:10:30 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.webguo.com': <GET http://www.webguo.com/2011/02/5/pinax_redev_translate.html>
+2020-11-15 14:10:31 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1398> (referer: https://www.djangoproject.com/community/links/?page=1397)
+2020-11-15 14:10:31 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=837> (referer: https://www.djangoproject.com/community/q-and-a/?page=836)
+2020-11-15 14:10:31 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1398>
+2020-11-15 14:10:31 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=837>
+2020-11-15 14:10:31 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'readevalprint.github.com': <GET http://readevalprint.github.com/mini-django/>
+2020-11-15 14:10:31 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.fyneworks.com': <GET http://www.fyneworks.com/jquery/star-rating/#tab-Database>
+2020-11-15 14:10:31 [scrapy.extensions.logstats] INFO: Crawled 25096 pages (at 144 pages/min), scraped 24949 items (at 144 items/min)
+2020-11-15 14:10:32 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1399> (referer: https://www.djangoproject.com/community/links/?page=1398)
+2020-11-15 14:10:32 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1399>
+2020-11-15 14:10:32 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'tracpub.yaco.es': <GET http://tracpub.yaco.es/djangoapps/wiki/AutoReports>
+2020-11-15 14:10:32 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'fanstatic.org': <GET http://fanstatic.org/intro.html>
+2020-11-15 14:10:32 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=838> (referer: https://www.djangoproject.com/community/q-and-a/?page=837)
+2020-11-15 14:10:32 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=838>
+2020-11-15 14:10:33 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1400> (referer: https://www.djangoproject.com/community/links/?page=1399)
+2020-11-15 14:10:33 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1400>
+2020-11-15 14:10:33 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.heise.de': <GET http://www.heise.de/open/meldung/Cloud-Plattform-fuer-dynamische-Sprachen-1238633.html>
+2020-11-15 14:10:34 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1401> (referer: https://www.djangoproject.com/community/links/?page=1400)
+2020-11-15 14:10:34 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=839> (referer: https://www.djangoproject.com/community/q-and-a/?page=838)
+2020-11-15 14:10:34 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1401>
+2020-11-15 14:10:34 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'martinogden.me': <GET http://martinogden.me/2011/03/27/quick-look-django-13-class-based-views/>
+2020-11-15 14:10:34 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=839>
+2020-11-15 14:10:34 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1402> (referer: https://www.djangoproject.com/community/links/?page=1401)
+2020-11-15 14:10:35 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1402>
+2020-11-15 14:10:35 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'leenux.org.uk': <GET http://leenux.org.uk/2009/07/14/push-on-the-iphone/>
+2020-11-15 14:10:35 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1403> (referer: https://www.djangoproject.com/community/links/?page=1402)
+2020-11-15 14:10:35 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1403>
+2020-11-15 14:10:35 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'geekfault.org': <GET http://geekfault.org/2010/03/01/nginx-et-python-le-perfect-setup/>
+2020-11-15 14:10:35 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=840> (referer: https://www.djangoproject.com/community/q-and-a/?page=839)
+2020-11-15 14:10:36 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=840>
+2020-11-15 14:10:36 [scrapy.core.engine] DEBUG: Crawled (404) <GET http://docs.djangoproject.com/en/dev/howto/deployment/modpython/> (referer: None)
+2020-11-15 14:10:36 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1404> (referer: https://www.djangoproject.com/community/links/?page=1403)
+2020-11-15 14:10:36 [scrapy.core.scraper] DEBUG: Scraped from <404 http://docs.djangoproject.com/en/dev/howto/deployment/modpython/>
+2020-11-15 14:10:36 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1404>
+2020-11-15 14:10:36 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'normankosmal.com': <GET http://normankosmal.com/wordpress/?p=37>
+2020-11-15 14:10:36 [scrapy.core.engine] DEBUG: Crawled (404) <GET http://docs.djangoproject.com/en/1.3/howto/deployment/fastcgi/> (referer: None)
+2020-11-15 14:10:36 [scrapy.core.scraper] DEBUG: Scraped from <404 http://docs.djangoproject.com/en/1.3/howto/deployment/fastcgi/>
+2020-11-15 14:10:36 [scrapy.core.engine] DEBUG: Crawled (404) <GET http://docs.djangoproject.com/en/1.2/ref/contrib/admin/#django.contrib.admin.ModelAdmin.add_view> (referer: None)
+2020-11-15 14:10:36 [scrapy.core.scraper] DEBUG: Scraped from <404 http://docs.djangoproject.com/en/1.2/ref/contrib/admin/>
+2020-11-15 14:10:37 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=841> (referer: https://www.djangoproject.com/community/q-and-a/?page=840)
+2020-11-15 14:10:37 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1405> (referer: https://www.djangoproject.com/community/links/?page=1404)
+2020-11-15 14:10:37 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=841>
+2020-11-15 14:10:37 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1405>
+2020-11-15 14:10:37 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'ciaranmcnulty.com': <GET http://ciaranmcnulty.com/blog/2009/04/converting-html-to-pdf-using-wkhtmltopdf>
+2020-11-15 14:10:37 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'rubayeet.wordpress.com': <GET http://rubayeet.wordpress.com/2009/10/31/django-how-to-make-a-variable-available-in-all-templates/>
+2020-11-15 14:10:37 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'devel.almad.net': <GET http://devel.almad.net/docs/django-sane-testing/intro.html>
+2020-11-15 14:10:37 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'pycon.blip.tv': <GET http://pycon.blip.tv/file/4880330/>
+2020-11-15 14:10:38 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1406> (referer: https://www.djangoproject.com/community/links/?page=1405)
+2020-11-15 14:10:38 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1406>
+2020-11-15 14:10:38 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'anubis.blasux.ru': <GET http://anubis.blasux.ru/books/Python/www.djangoproject.com/documentation/0.95/>
+2020-11-15 14:10:38 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'pedromenezes.com': <GET http://pedromenezes.com/10-sites-para-voce-aprender-django-com-aplicacoes-livros-videos-slides-e-tutoriais>
+2020-11-15 14:10:38 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=842> (referer: https://www.djangoproject.com/community/q-and-a/?page=841)
+2020-11-15 14:10:38 [scrapy.core.engine] DEBUG: Crawled (200) <GET http://www.djangoproject.com/weblog/2011/mar/23/13/> (referer: None)
+2020-11-15 14:10:38 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=842>
+2020-11-15 14:10:38 [scrapy.core.scraper] DEBUG: Scraped from <200 http://www.djangoproject.com/weblog/2011/mar/23/13/>
+2020-11-15 14:10:38 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1407> (referer: https://www.djangoproject.com/community/links/?page=1406)
+2020-11-15 14:10:39 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1407>
+2020-11-15 14:10:39 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'milindshakya.tumblr.com': <GET http://milindshakya.tumblr.com/post/4188710184/twitter-connect-in-django-using-oauth>
+2020-11-15 14:10:39 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'djangoniac.wordpress.com': <GET http://djangoniac.wordpress.com/2007/10/25/2-weeks-with-django-from-a-symfony-users-perspective/>
+2020-11-15 14:10:39 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'chronosbox.org': <GET http://chronosbox.org/blog/jsonresponse-in-django?lang=en>
+2020-11-15 14:10:39 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.tutorialbin.com': <GET http://www.tutorialbin.com/tutorials/205648/django-create-dynamic-pdfs-using-wkhtmltopdf-shivuls-posterous>
+2020-11-15 14:10:40 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1408> (referer: https://www.djangoproject.com/community/links/?page=1407)
+2020-11-15 14:10:40 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1408>
+2020-11-15 14:10:40 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'snippets.dzone.com': <GET http://snippets.dzone.com/posts/show/7410>
+2020-11-15 14:10:40 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'regispires.wordpress.com': <GET http://regispires.wordpress.com/2010/06/18/aprendendo-python-e-django/>
+2020-11-15 14:10:40 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=843> (referer: https://www.djangoproject.com/community/q-and-a/?page=842)
+2020-11-15 14:10:40 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=843>
+2020-11-15 14:10:41 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1409> (referer: https://www.djangoproject.com/community/links/?page=1408)
+2020-11-15 14:10:41 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1409>
+2020-11-15 14:10:41 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'cd-docdb.fnal.gov': <GET http://cd-docdb.fnal.gov/cgi-bin/RetrieveFile?docid=2715&version=1&filename=Comparison.html>
+2020-11-15 14:10:41 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=844> (referer: https://www.djangoproject.com/community/q-and-a/?page=843)
+2020-11-15 14:10:41 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=844>
+2020-11-15 14:10:41 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1410> (referer: https://www.djangoproject.com/community/links/?page=1409)
+2020-11-15 14:10:42 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1410>
+2020-11-15 14:10:42 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'typewith.me': <GET http://typewith.me/whSdv8YKZK>
+2020-11-15 14:10:42 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'funkload.nuxeo.org': <GET http://funkload.nuxeo.org/>
+2020-11-15 14:10:42 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1411> (referer: https://www.djangoproject.com/community/links/?page=1410)
+2020-11-15 14:10:42 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1411>
+2020-11-15 14:10:42 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.ueblog.org': <GET http://www.ueblog.org/blog/entry/django_kihon/>
+2020-11-15 14:10:42 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'ajaxor.com': <GET http://ajaxor.com/django-models-improve-his-performance/04/?sms_ss=delicious&at_xt=4dc1e5d108ac08b2%2C0>
+2020-11-15 14:10:43 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=845> (referer: https://www.djangoproject.com/community/q-and-a/?page=844)
+2020-11-15 14:10:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=845>
+2020-11-15 14:10:43 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1412> (referer: https://www.djangoproject.com/community/links/?page=1411)
+2020-11-15 14:10:43 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1412>
+2020-11-15 14:10:43 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'panel.djangoeurope.com': <GET https://panel.djangoeurope.com/faq/#backup>
+2020-11-15 14:10:43 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'justquick.github.com': <GET http://justquick.github.com/django-native-tags/>
+2020-11-15 14:10:44 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1413> (referer: https://www.djangoproject.com/community/links/?page=1412)
+2020-11-15 14:10:44 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=846> (referer: https://www.djangoproject.com/community/q-and-a/?page=845)
+2020-11-15 14:10:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1413>
+2020-11-15 14:10:44 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'alen.mobi': <GET http://alen.mobi/blog/2011/02/06/managin-django-gunicorn-processes-upstart/>
+2020-11-15 14:10:44 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'ninja-ide.org': <GET http://ninja-ide.org/index.html>
+2020-11-15 14:10:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=846>
+2020-11-15 14:10:44 [scrapy.downloadermiddlewares.redirect] DEBUG: Redirecting (301) to <GET http://docs.djangoproject.com/en/dev/releases/1.3/> from <GET http://docs.djangoproject.com/en/dev/releases/1.3>
+2020-11-15 14:10:45 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1414> (referer: https://www.djangoproject.com/community/links/?page=1413)
+2020-11-15 14:10:45 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1414>
+2020-11-15 14:10:45 [scrapy.core.engine] DEBUG: Crawled (404) <GET http://docs.djangoproject.com/en/1.3/intro/> (referer: None)
+2020-11-15 14:10:45 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=847> (referer: https://www.djangoproject.com/community/q-and-a/?page=846)
+2020-11-15 14:10:45 [scrapy.core.scraper] DEBUG: Scraped from <404 http://docs.djangoproject.com/en/1.3/intro/>
+2020-11-15 14:10:45 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=847>
+2020-11-15 14:10:45 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1415> (referer: https://www.djangoproject.com/community/links/?page=1414)
+2020-11-15 14:10:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1415>
+2020-11-15 14:10:46 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.carlosble.com': <GET http://www.carlosble.com/2010/11/goodbye-google-app-engine-gae/>
+2020-11-15 14:10:46 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'empt1e.blogspot.com': <GET http://empt1e.blogspot.com/2011/04/trying-dotcloud-for-djangopython.html>
+2020-11-15 14:10:46 [scrapy.core.engine] DEBUG: Crawled (404) <GET http://docs.djangoproject.com/en/1.3/ref/models/fields/> (referer: None)
+2020-11-15 14:10:46 [scrapy.core.scraper] DEBUG: Scraped from <404 http://docs.djangoproject.com/en/1.3/ref/models/fields/>
+2020-11-15 14:10:46 [scrapy.downloadermiddlewares.redirect] DEBUG: Redirecting (301) to <GET http://docs.djangoproject.com/en/1.3/howto/i18n/> from <GET http://docs.djangoproject.com/en/1.3/howto/i18n>
+2020-11-15 14:10:46 [scrapy.core.engine] DEBUG: Crawled (404) <GET http://docs.djangoproject.com/en/1.3/howto/i18n/> (referer: None)
+2020-11-15 14:10:46 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1416> (referer: https://www.djangoproject.com/community/links/?page=1415)
+2020-11-15 14:10:46 [scrapy.core.scraper] DEBUG: Scraped from <404 http://docs.djangoproject.com/en/1.3/howto/i18n/>
+2020-11-15 14:10:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1416>
+2020-11-15 14:10:46 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.acooke.org': <GET http://www.acooke.org/cute/UsingaDire0.html>
+2020-11-15 14:10:46 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'blog.abourget.net': <GET http://blog.abourget.net/>
+2020-11-15 14:10:46 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'forum.slicehost.com': <GET http://forum.slicehost.com/comments.php?DiscussionID=4254>
+2020-11-15 14:10:46 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'randomfoo.net': <GET http://randomfoo.net/2009/01/28/infrastructure-for-modern-web-sites>
+2020-11-15 14:10:47 [scrapy.core.engine] DEBUG: Crawled (404) <GET http://docs.djangoproject.com/en/1.1/intro/tutorial01/> (referer: None)
+2020-11-15 14:10:47 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=848> (referer: https://www.djangoproject.com/community/q-and-a/?page=847)
+2020-11-15 14:10:47 [scrapy.core.scraper] DEBUG: Scraped from <404 http://docs.djangoproject.com/en/1.1/intro/tutorial01/>
+2020-11-15 14:10:47 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=848>
+2020-11-15 14:10:47 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1417> (referer: https://www.djangoproject.com/community/links/?page=1416)
+2020-11-15 14:10:47 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1417>
+2020-11-15 14:10:47 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'stackable.com': <GET http://stackable.com/products/django/>
+2020-11-15 14:10:47 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'projects.latimes.com': <GET http://projects.latimes.com/dogs/>
+2020-11-15 14:10:47 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.techgeekguy.com': <GET http://www.techgeekguy.com/2011/01/how-to-install-python-svn-django-osqa-web-hosting-server-hostmonster-dreamhost-bluehost-godaddy-hostgator.html>
+2020-11-15 14:10:47 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.littlehart.net': <GET http://www.littlehart.net/atthekeyboard/2010/12/15/fun-with-apis-frapi-and-django-tastypie>
+2020-11-15 14:10:47 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'tomwardill.posterous.com': <GET http://tomwardill.posterous.com/using-fabric-from-celery-in-django>
+2020-11-15 14:10:48 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1418> (referer: https://www.djangoproject.com/community/links/?page=1417)
+2020-11-15 14:10:48 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=849> (referer: https://www.djangoproject.com/community/q-and-a/?page=848)
+2020-11-15 14:10:48 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1418>
+2020-11-15 14:10:48 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=849>
+2020-11-15 14:10:48 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'blog.101ideas.cz': <GET http://blog.101ideas.cz/posts/subdomains-in-django-an-example.html>
+2020-11-15 14:10:48 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'vas3k.ru': <GET http://vas3k.ru/work/django_ru_pluralize>
+2020-11-15 14:10:48 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'djangoblog.net': <GET http://djangoblog.net/blog/view/installing_pil_on_macosx/>
+2020-11-15 14:10:49 [scrapy.downloadermiddlewares.redirect] DEBUG: Redirecting (301) to <GET http://docs.djangoproject.com/en/1.3/topics/i18n/internationalization/> from <GET http://docs.djangoproject.com/en/1.3/topics/i18n/internationalization>
+2020-11-15 14:10:49 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1419> (referer: https://www.djangoproject.com/community/links/?page=1418)
+2020-11-15 14:10:49 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1419>
+2020-11-15 14:10:49 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'mattluongo.com': <GET http://mattluongo.com/node/23>
+2020-11-15 14:10:49 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'qinxuye.me': <GET http://qinxuye.me/article/introduction-and-usage-of-django-mptt/>
+2020-11-15 14:10:49 [scrapy.core.engine] DEBUG: Crawled (404) <GET http://docs.djangoproject.com/en/1.3/topics/i18n/internationalization/> (referer: None)
+2020-11-15 14:10:49 [scrapy.core.scraper] DEBUG: Scraped from <404 http://docs.djangoproject.com/en/1.3/topics/i18n/internationalization/>
+2020-11-15 14:10:49 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=850> (referer: https://www.djangoproject.com/community/q-and-a/?page=849)
+2020-11-15 14:10:50 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=850>
+2020-11-15 14:10:50 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1420> (referer: https://www.djangoproject.com/community/links/?page=1419)
+2020-11-15 14:10:50 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1420>
+2020-11-15 14:10:50 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'blep.blogspot.com': <GET http://blep.blogspot.com/>
+2020-11-15 14:10:50 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'javisantana.com': <GET http://javisantana.com/python/testing/#slide1>
+2020-11-15 14:10:50 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.rfk.id.au': <GET http://www.rfk.id.au/blog/entry/django-unittest-windmill-goodness/>
+2020-11-15 14:10:51 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1421> (referer: https://www.djangoproject.com/community/links/?page=1420)
+2020-11-15 14:10:51 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1421>
+2020-11-15 14:10:51 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'robertroland.org': <GET http://robertroland.org/2011/04/26/active-directory-support-in-django/>
+2020-11-15 14:10:51 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'pyobject.ru': <GET http://pyobject.ru/blog/2006/09/11/django-code-layout/>
+2020-11-15 14:10:51 [scrapy.core.engine] DEBUG: Crawled (404) <GET http://docs.djangoproject.com/en/1.3/topics/auth/#topics-auth-creating-superusers> (referer: None)
+2020-11-15 14:10:51 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=851> (referer: https://www.djangoproject.com/community/q-and-a/?page=850)
+2020-11-15 14:10:51 [scrapy.core.scraper] DEBUG: Scraped from <404 http://docs.djangoproject.com/en/1.3/topics/auth/>
+2020-11-15 14:10:51 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=851>
+2020-11-15 14:10:51 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1422> (referer: https://www.djangoproject.com/community/links/?page=1421)
+2020-11-15 14:10:51 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1422>
+2020-11-15 14:10:51 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'jasonkotenko.com': <GET http://jasonkotenko.com/posts/using-git-django-github/>
+2020-11-15 14:10:51 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'areciboapp.com': <GET http://areciboapp.com/>
+2020-11-15 14:10:51 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'repocracy.com': <GET http://repocracy.com/>
+2020-11-15 14:10:52 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1423> (referer: https://www.djangoproject.com/community/links/?page=1422)
+2020-11-15 14:10:52 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1423>
+2020-11-15 14:10:52 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=852> (referer: https://www.djangoproject.com/community/q-and-a/?page=851)
+2020-11-15 14:10:52 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=852>
+2020-11-15 14:10:52 [scrapy.core.engine] DEBUG: Crawled (404) <GET http://docs.djangoproject.com/en/1.3/ref/databases/> (referer: None)
+2020-11-15 14:10:53 [scrapy.core.scraper] DEBUG: Scraped from <404 http://docs.djangoproject.com/en/1.3/ref/databases/>
+2020-11-15 14:10:53 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1424> (referer: https://www.djangoproject.com/community/links/?page=1423)
+2020-11-15 14:10:53 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1424>
+2020-11-15 14:10:53 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'pack.li': <GET http://pack.li/2?sms_ss=delicious&at_xt=4dbea5394e216cb9%2C0>
+2020-11-15 14:10:53 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'support.sagepay.com': <GET https://support.sagepay.com/forum/Topic11654-23-1.aspx>
+2020-11-15 14:10:53 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.bonsai.tv': <GET http://www.bonsai.tv/magazine/news/django-unchained-tarantino-svela-il-suo-nuovo-film-video/>
+2020-11-15 14:10:53 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'blog.huchunhao.com': <GET http://blog.huchunhao.com/current-and-upcoming-cloud-platforms>
+2020-11-15 14:10:54 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=853> (referer: https://www.djangoproject.com/community/q-and-a/?page=852)
+2020-11-15 14:10:54 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1425> (referer: https://www.djangoproject.com/community/links/?page=1424)
+2020-11-15 14:10:54 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=853>
+2020-11-15 14:10:54 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1425>
+2020-11-15 14:10:54 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'tech.foolpig.com': <GET http://tech.foolpig.com/2010/08/30/python-django-nginx/>
+2020-11-15 14:10:54 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'wiki.freebsdchina.org': <GET http://wiki.freebsdchina.org/doc/n/nginx_django>
+2020-11-15 14:10:54 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'sa3.org': <GET http://sa3.org/program/nginx-uwsgi/>
+2020-11-15 14:10:54 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'lloydsheng.com': <GET http://lloydsheng.com/2010/06/how-install-django-flup-nginx-in-unbuntu.html>
+2020-11-15 14:10:55 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1426> (referer: https://www.djangoproject.com/community/links/?page=1425)
+2020-11-15 14:10:55 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1426>
+2020-11-15 14:10:55 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.statopia.com': <GET http://www.statopia.com/corporate/blog/2007/aug/05/PopularDjangoHostingService/>
+2020-11-15 14:10:55 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'blog.entzeroth.com': <GET http://blog.entzeroth.com/2010/04/django-forms-widgets-that-could-use.html>
+2020-11-15 14:10:55 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=854> (referer: https://www.djangoproject.com/community/q-and-a/?page=853)
+2020-11-15 14:10:55 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=854>
+2020-11-15 14:10:55 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1427> (referer: https://www.djangoproject.com/community/links/?page=1426)
+2020-11-15 14:10:55 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1427>
+2020-11-15 14:10:55 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.tarantino.info': <GET http://www.tarantino.info/2011/04/30/tarantinos-next-movie-is-django-unchained/>
+2020-11-15 14:10:55 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'johnmee.com': <GET http://johnmee.com/2010/11/django-creating-dynamic-lists-of-radio-buttons-from-arbitrary-classes-and-with-long-descriptions/>
+2020-11-15 14:10:55 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.all8.com': <GET http://www.all8.com/tools/bpm.htm>
+2020-11-15 14:10:56 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1428> (referer: https://www.djangoproject.com/community/links/?page=1427)
+2020-11-15 14:10:56 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1428>
+2020-11-15 14:10:56 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.deck.cc': <GET http://www.deck.cc/django_1.2_on_google_app_engine.html>
+2020-11-15 14:10:56 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'mumble-django.org': <GET http://mumble-django.org/docs/en/web_server_setup.html>
+2020-11-15 14:10:56 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'jeffbaier.com': <GET http://jeffbaier.com/articles/installing-django-on-an-ubuntu-linux-server/>
+2020-11-15 14:10:56 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.bubblefoundry.com': <GET http://www.bubblefoundry.com/blog/2009/05/installing-the-google-app-engine-sdk-and-django-102/>
+2020-11-15 14:10:56 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.djangy.com': <GET https://www.djangy.com/>
+2020-11-15 14:10:56 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=855> (referer: https://www.djangoproject.com/community/q-and-a/?page=854)
+2020-11-15 14:10:57 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=855>
+2020-11-15 14:10:57 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1429> (referer: https://www.djangoproject.com/community/links/?page=1428)
+2020-11-15 14:10:57 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1429>
+2020-11-15 14:10:57 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'buntin.org': <GET http://buntin.org/2011/02/27/django-celery-for-non-blocking-django-signals/>
+2020-11-15 14:10:57 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'nathanvangheem.com': <GET http://nathanvangheem.com/news/gunicorn-startup-script-for-django>
+2020-11-15 14:10:57 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'django-le-social.readthedocs.org': <GET http://django-le-social.readthedocs.org/en/latest/?redir>
+2020-11-15 14:10:57 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'dddash.ep.io': <GET http://dddash.ep.io/>
+2020-11-15 14:10:57 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'huacnlee.com': <GET http://huacnlee.com/blog/django-third-path-plugin>
+2020-11-15 14:10:57 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.learncomputer.com': <GET http://www.learncomputer.com/python-django-web-development/>
+2020-11-15 14:10:57 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'piotrbla.blogspot.com': <GET http://piotrbla.blogspot.com/2008/07/instalacja-django-pod-windows.html>
+2020-11-15 14:10:57 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'tbaggery.com': <GET http://tbaggery.com/2010/03/04/smack-a-ho-st.html>
+2020-11-15 14:10:58 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1430> (referer: https://www.djangoproject.com/community/links/?page=1429)
+2020-11-15 14:10:58 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=856> (referer: https://www.djangoproject.com/community/q-and-a/?page=855)
+2020-11-15 14:10:58 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1430>
+2020-11-15 14:10:58 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'ja.w3support.net': <GET http://ja.w3support.net/index.php?db=so&id=1074200>
+2020-11-15 14:10:58 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'trailmapping.com': <GET http://trailmapping.com/>
+2020-11-15 14:10:58 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=856>
+2020-11-15 14:10:59 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1431> (referer: https://www.djangoproject.com/community/links/?page=1430)
+2020-11-15 14:10:59 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1431>
+2020-11-15 14:10:59 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.storymarket.com': <GET https://www.storymarket.com/jobs/2011/apr/29/user-experience-designer/>
+2020-11-15 14:10:59 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'natebeacham.com': <GET http://natebeacham.com/blog/nate-beacham/29/>
+2020-11-15 14:10:59 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.peebs.org': <GET http://www.peebs.org/2009/10/how-to-access-your-django-models-from-external-python-scripts/>
+2020-11-15 14:10:59 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.mefeedia.com': <GET http://www.mefeedia.com/watch/28934064>
+2020-11-15 14:10:59 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'django096docs.appspot.com': <GET http://django096docs.appspot.com/>
+2020-11-15 14:10:59 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=857> (referer: https://www.djangoproject.com/community/q-and-a/?page=856)
+2020-11-15 14:10:59 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=857>
+2020-11-15 14:11:00 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1432> (referer: https://www.djangoproject.com/community/links/?page=1431)
+2020-11-15 14:11:00 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1432>
+2020-11-15 14:11:00 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.stumbleupon.com': <GET http://www.stumbleupon.com/su/1ztEgM/www.ibm.com/developerworks/web/library/wa-django/index.html?cmp=dw&cpb=dwwdv&ct=dwgra&cr=twitter&ccy=zz&crs=djangojquerySlickGrid>
+2020-11-15 14:11:00 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1433> (referer: https://www.djangoproject.com/community/links/?page=1432)
+2020-11-15 14:11:01 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1433>
+2020-11-15 14:11:01 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=858> (referer: https://www.djangoproject.com/community/q-and-a/?page=857)
+2020-11-15 14:11:01 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'jayngo.blogspot.com': <GET http://jayngo.blogspot.com/2011/04/using-django-paypal.html>
+2020-11-15 14:11:01 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.zen4ever.com': <GET http://www.zen4ever.com/solving-n1-query-problem-in-django-using-cust>
+2020-11-15 14:11:01 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'bugs.launchpad.net': <GET https://bugs.launchpad.net/djangorecipe/+bug/530066>
+2020-11-15 14:11:01 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=858>
+2020-11-15 14:11:01 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1434> (referer: https://www.djangoproject.com/community/links/?page=1433)
+2020-11-15 14:11:01 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1434>
+2020-11-15 14:11:01 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'pithyless.posterous.com': <GET http://pithyless.posterous.com/django-fabric-easy-multi-stage-deployment-on>
+2020-11-15 14:11:01 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'kenai.com': <GET http://kenai.com/projects/django-uml>
+2020-11-15 14:11:02 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=859> (referer: https://www.djangoproject.com/community/q-and-a/?page=858)
+2020-11-15 14:11:02 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1435> (referer: https://www.djangoproject.com/community/links/?page=1434)
+2020-11-15 14:11:02 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=859>
+2020-11-15 14:11:02 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1435>
+2020-11-15 14:11:02 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'code.launchpad.net': <GET https://code.launchpad.net/~althalus87/pysaml2/django>
+2020-11-15 14:11:03 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1436> (referer: https://www.djangoproject.com/community/links/?page=1435)
+2020-11-15 14:11:03 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1436>
+2020-11-15 14:11:03 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.asynchronous.org': <GET http://www.asynchronous.org/blog/archives/2009/10/10/django-timezone-view-handling>
+2020-11-15 14:11:03 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'blog.ericsk.org': <GET http://blog.ericsk.org/archives/815>
+2020-11-15 14:11:03 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'pythontr.org': <GET http://pythontr.org/python/django/84-django-video/203-django-blog-uygulamasi-hazirlamak.html>
+2020-11-15 14:11:03 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'hyde.github.com': <GET http://hyde.github.com/>
+2020-11-15 14:11:03 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'jaymz.eu': <GET http://jaymz.eu/tag/python/>
+2020-11-15 14:11:03 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.thefastpark.com': <GET http://www.thefastpark.com/>
+2020-11-15 14:11:03 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'formerlyconversal.wordpress.com': <GET https://formerlyconversal.wordpress.com/2009/11/01/inline-editing-with-jquery-jeditable-and-django/>
+2020-11-15 14:11:04 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=860> (referer: https://www.djangoproject.com/community/q-and-a/?page=859)
+2020-11-15 14:11:04 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=860>
+2020-11-15 14:11:04 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1437> (referer: https://www.djangoproject.com/community/links/?page=1436)
+2020-11-15 14:11:04 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1437>
+2020-11-15 14:11:04 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'code.activestate.com': <GET http://code.activestate.com/pypm/django-tagging-autocomplete/>
+2020-11-15 14:11:04 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'test.getify.com': <GET http://test.getify.com/mpAjax/description.html>
+2020-11-15 14:11:04 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'miguelvel.wordpress.com': <GET http://miguelvel.wordpress.com/2010/12/12/django-jqgrid/>
+2020-11-15 14:11:04 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'zork.net': <GET http://zork.net/yardbird/>
+2020-11-15 14:11:04 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'streamhacker.wordpress.com': <GET http://streamhacker.wordpress.com/2009/04/26/deploying-django-with-mercurial-fab-and-nginx/>
+2020-11-15 14:11:04 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'apprenticecoder.wordpress.com': <GET http://apprenticecoder.wordpress.com/2011/03/06/django-cakephp-and-codeigniter-part-3-models-data-relationships-and-foreign-keys/>
+2020-11-15 14:11:05 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1438> (referer: https://www.djangoproject.com/community/links/?page=1437)
+2020-11-15 14:11:05 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1438>
+2020-11-15 14:11:05 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'notes.alexdong.com': <GET http://notes.alexdong.com/utc-timezone-daylight-saving-django-and-mysql>
+2020-11-15 14:11:05 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.mapetiteautoentreprise.fr': <GET http://www.mapetiteautoentreprise.fr/>
+2020-11-15 14:11:05 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.nuagehq.com': <GET http://www.nuagehq.com/>
+2020-11-15 14:11:05 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=861> (referer: https://www.djangoproject.com/community/q-and-a/?page=860)
+2020-11-15 14:11:05 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=861>
+2020-11-15 14:11:05 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1439> (referer: https://www.djangoproject.com/community/links/?page=1438)
+2020-11-15 14:11:05 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1439>
+2020-11-15 14:11:05 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'wilfredwordpress.nfshost.com': <GET http://wilfredwordpress.nfshost.com/?p=80>
+2020-11-15 14:11:05 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.vrplumber.com': <GET http://www.vrplumber.com/programming/runsnakerun/>
+2020-11-15 14:11:06 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1440> (referer: https://www.djangoproject.com/community/links/?page=1439)
+2020-11-15 14:11:06 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1440>
+2020-11-15 14:11:06 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=862> (referer: https://www.djangoproject.com/community/q-and-a/?page=861)
+2020-11-15 14:11:06 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=862>
+2020-11-15 14:11:07 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1441> (referer: https://www.djangoproject.com/community/links/?page=1440)
+2020-11-15 14:11:07 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1441>
+2020-11-15 14:11:07 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'kfalck.net': <GET https://kfalck.net/2011/01/25/django-ja-mongodb>
+2020-11-15 14:11:07 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.juiceanalytics.com': <GET http://www.juiceanalytics.com/writing/django_settings_module/>
+2020-11-15 14:11:07 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.cotellese.net': <GET http://www.cotellese.net/2007/09/27/running-external-scripts-against-django-models/>
+2020-11-15 14:11:08 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=863> (referer: https://www.djangoproject.com/community/q-and-a/?page=862)
+2020-11-15 14:11:08 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1442> (referer: https://www.djangoproject.com/community/links/?page=1441)
+2020-11-15 14:11:08 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=863>
+2020-11-15 14:11:08 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1442>
+2020-11-15 14:11:08 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'cloudroulette.me': <GET http://cloudroulette.me/>
+2020-11-15 14:11:08 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.publicstatic.net': <GET http://www.publicstatic.net/2011/01/17/django-cms-and-mptt/>
+2020-11-15 14:11:08 [scrapy.core.engine] DEBUG: Crawled (404) <GET http://docs.djangoproject.com/en/1.2/topics/db/multi-db/> (referer: None)
+2020-11-15 14:11:08 [scrapy.core.scraper] DEBUG: Scraped from <404 http://docs.djangoproject.com/en/1.2/topics/db/multi-db/>
+2020-11-15 14:11:08 [scrapy.core.engine] DEBUG: Crawled (404) <GET http://docs.djangoproject.com/en/1.2/ref/files/storage/> (referer: None)
+2020-11-15 14:11:08 [scrapy.core.engine] DEBUG: Crawled (404) <GET http://docs.djangoproject.com/en/1.2/ref/databases/> (referer: None)
+2020-11-15 14:11:08 [scrapy.core.scraper] DEBUG: Scraped from <404 http://docs.djangoproject.com/en/1.2/ref/files/storage/>
+2020-11-15 14:11:09 [scrapy.core.scraper] DEBUG: Scraped from <404 http://docs.djangoproject.com/en/1.2/ref/databases/>
+2020-11-15 14:11:09 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1443> (referer: https://www.djangoproject.com/community/links/?page=1442)
+2020-11-15 14:11:09 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1443>
+2020-11-15 14:11:09 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'code.surfguitar101.com': <GET http://code.surfguitar101.com/wiki>
+2020-11-15 14:11:09 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'blog.pornark.com': <GET http://blog.pornark.com/pornark-starting-up-in-porn-with-python-and-d>
+2020-11-15 14:11:09 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=864> (referer: https://www.djangoproject.com/community/q-and-a/?page=863)
+2020-11-15 14:11:09 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=864>
+2020-11-15 14:11:09 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1444> (referer: https://www.djangoproject.com/community/links/?page=1443)
+2020-11-15 14:11:09 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1444>
+2020-11-15 14:11:09 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'djangoweb.blogspot.com': <GET http://djangoweb.blogspot.com/2009/01/o-projeto-parte-1.html>
+2020-11-15 14:11:09 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'deeperhost.net': <GET http://deeperhost.net/index>
+2020-11-15 14:11:10 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1445> (referer: https://www.djangoproject.com/community/links/?page=1444)
+2020-11-15 14:11:10 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1445>
+2020-11-15 14:11:10 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=865> (referer: https://www.djangoproject.com/community/q-and-a/?page=864)
+2020-11-15 14:11:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=865>
+2020-11-15 14:11:11 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1446> (referer: https://www.djangoproject.com/community/links/?page=1445)
+2020-11-15 14:11:11 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1446>
+2020-11-15 14:11:11 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.nickonsoftware.com': <GET http://www.nickonsoftware.com/?p=94>
+2020-11-15 14:11:11 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'peyman-django.blogspot.com': <GET http://peyman-django.blogspot.com/2010/03/full-easy-authentication-using.html>
+2020-11-15 14:11:12 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1447> (referer: https://www.djangoproject.com/community/links/?page=1446)
+2020-11-15 14:11:12 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=866> (referer: https://www.djangoproject.com/community/q-and-a/?page=865)
+2020-11-15 14:11:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1447>
+2020-11-15 14:11:12 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=866>
+2020-11-15 14:11:12 [scrapy.core.engine] DEBUG: Crawled (200) <GET http://www.djangoproject.com/weblog/2011/apr/25/gsoc/> (referer: None)
+2020-11-15 14:11:13 [scrapy.core.scraper] DEBUG: Scraped from <200 http://www.djangoproject.com/weblog/2011/apr/25/gsoc/>
+2020-11-15 14:11:13 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1448> (referer: https://www.djangoproject.com/community/links/?page=1447)
+2020-11-15 14:11:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1448>
+2020-11-15 14:11:13 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'designsbytes.com': <GET http://designsbytes.com/2011/04/12/50-really-excellent-weblog-designs/>
+2020-11-15 14:11:13 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'vorushin.ru': <GET http://vorushin.ru/blog/59-markdown-use/>
+2020-11-15 14:11:13 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.assembla.com': <GET http://www.assembla.com/code/datatables_demo/subversion/nodes?rev=5>
+2020-11-15 14:11:13 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'j4mie.github.com': <GET http://j4mie.github.com/python-and-django-for-php-refugees>
+2020-11-15 14:11:13 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=867> (referer: https://www.djangoproject.com/community/q-and-a/?page=866)
+2020-11-15 14:11:13 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=867>
+2020-11-15 14:11:13 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1449> (referer: https://www.djangoproject.com/community/links/?page=1448)
+2020-11-15 14:11:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1449>
+2020-11-15 14:11:14 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.bluehost.com': <GET https://www.bluehost.com/cgi/help/000531>
+2020-11-15 14:11:14 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'djangourls.com': <GET http://djangourls.com/>
+2020-11-15 14:11:14 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.lonelycode.com': <GET http://www.lonelycode.com/2009/02/04/django-and-json-web-services-with-an-example-from-twitter/>
+2020-11-15 14:11:14 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1450> (referer: https://www.djangoproject.com/community/links/?page=1449)
+2020-11-15 14:11:14 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1450>
+2020-11-15 14:11:14 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'drhevans.com': <GET http://drhevans.com/blog/posts/261-enabling-django-template-syntax-highlighting-in-geany>
+2020-11-15 14:11:14 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'zhangwenjie.net': <GET http://zhangwenjie.net/archives/409.html>
+2020-11-15 14:11:14 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'artori.us': <GET http://artori.us/django-static-files-serve/>
+2020-11-15 14:11:14 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'scturtle.is-programmer.com': <GET http://scturtle.is-programmer.com/posts/25866.html>
+2020-11-15 14:11:14 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'skandgjxa.blog.163.com': <GET http://skandgjxa.blog.163.com/blog/static/14152982010102231247660/>
+2020-11-15 14:11:15 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=868> (referer: https://www.djangoproject.com/community/q-and-a/?page=867)
+2020-11-15 14:11:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=868>
+2020-11-15 14:11:15 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1451> (referer: https://www.djangoproject.com/community/links/?page=1450)
+2020-11-15 14:11:15 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1451>
+2020-11-15 14:11:15 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.htmldrive.net': <GET http://www.htmldrive.net/categorys/show/9/Rating-Star-Rating>
+2020-11-15 14:11:16 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1452> (referer: https://www.djangoproject.com/community/links/?page=1451)
+2020-11-15 14:11:16 [scrapy.core.engine] DEBUG: Crawled (200) <GET http://docs.djangoproject.com/en/dev/topics/install/?from=olddocs> (referer: None)
+2020-11-15 14:11:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1452>
+2020-11-15 14:11:16 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'djangobay.blogspot.com': <GET http://djangobay.blogspot.com/2010/03/how-to-use-django-tagging-in-your-apps.html>
+2020-11-15 14:11:16 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=869> (referer: https://www.djangoproject.com/community/q-and-a/?page=868)
+2020-11-15 14:11:16 [scrapy.core.scraper] DEBUG: Scraped from <200 http://docs.djangoproject.com/en/dev/topics/install/?from=olddocs>
+2020-11-15 14:11:16 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=869>
+2020-11-15 14:11:17 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1453> (referer: https://www.djangoproject.com/community/links/?page=1452)
+2020-11-15 14:11:17 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1453>
+2020-11-15 14:11:17 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'blog.brandonbloom.name': <GET http://blog.brandonbloom.name/2009/08/dropping-django.html>
+2020-11-15 14:11:17 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.franciscosouza.com.br': <GET http://www.franciscosouza.com.br/2010/08/02/voando-com-o-django-no-google-app-engine/>
+2020-11-15 14:11:17 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'thecodemine.org': <GET http://thecodemine.org/>
+2020-11-15 14:11:17 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.docunext.com': <GET http://www.docunext.com/wiki/Apache_2_and_mod_wsgi>
+2020-11-15 14:11:17 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=870> (referer: https://www.djangoproject.com/community/q-and-a/?page=869)
+2020-11-15 14:11:17 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1454> (referer: https://www.djangoproject.com/community/links/?page=1453)
+2020-11-15 14:11:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=870>
+2020-11-15 14:11:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1454>
+2020-11-15 14:11:18 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.hotscripts.com': <GET http://www.hotscripts.com/>
+2020-11-15 14:11:18 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'wiki.ceviz.net': <GET http://wiki.ceviz.net/index.php/B%C3%B6l%C3%BCm_01_:_Django_ile_tan%C4%B1%C5%9Fal%C4%B1m>
+2020-11-15 14:11:18 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1455> (referer: https://www.djangoproject.com/community/links/?page=1454)
+2020-11-15 14:11:18 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1455>
+2020-11-15 14:11:18 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'devblog.policystat.com': <GET http://devblog.policystat.com/php-to-django-changing-the-engine-while-the-c>
+2020-11-15 14:11:18 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.doboism.com': <GET http://www.doboism.com/blog/2009/07/13/google-app-engine-django-tutorial-part-1-background/>
+2020-11-15 14:11:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET http://docs.djangoproject.com/en/dev/howto/legacy-databases/?from=olddocs> (referer: None)
+2020-11-15 14:11:19 [scrapy.core.scraper] DEBUG: Scraped from <200 http://docs.djangoproject.com/en/dev/howto/legacy-databases/?from=olddocs>
+2020-11-15 14:11:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=871> (referer: https://www.djangoproject.com/community/q-and-a/?page=870)
+2020-11-15 14:11:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=871>
+2020-11-15 14:11:19 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1456> (referer: https://www.djangoproject.com/community/links/?page=1455)
+2020-11-15 14:11:19 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1456>
+2020-11-15 14:11:19 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.x.com': <GET https://www.x.com/people/shrenik181986/blog/2010/05/09/paypal-ipn-integration-with-django>
+2020-11-15 14:11:19 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.latimes.com': <GET http://www.latimes.com/news/nationworld/nation/la-na-money-politics-survey-20110424,0,1545345,full.story?q=B>
+2020-11-15 14:11:19 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'benoitc.github.com': <GET http://benoitc.github.com/dj-webmachine/throttling.html>
+2020-11-15 14:11:19 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.thlopes.com': <GET http://www.thlopes.com/2011/02/meu-ambiente-de-trabalho-em-7-itens/>
+2020-11-15 14:11:19 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.factory-h.com': <GET http://www.factory-h.com/blog/?p=71>
+2020-11-15 14:11:19 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'www.twistranet.fr': <GET http://www.twistranet.fr/>
+2020-11-15 14:11:20 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1457> (referer: https://www.djangoproject.com/community/links/?page=1456)
+2020-11-15 14:11:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1457>
+2020-11-15 14:11:20 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/q-and-a/?page=872> (referer: https://www.djangoproject.com/community/q-and-a/?page=871)
+2020-11-15 14:11:20 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/q-and-a/?page=872>
+2020-11-15 14:11:21 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.djangoproject.com/community/links/?page=1458> (referer: https://www.djangoproject.com/community/links/?page=1457)
+2020-11-15 14:11:21 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.djangoproject.com/community/links/?page=1458>
+2020-11-15 14:11:21 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'blog.deliciousrobots.com': <GET http://blog.deliciousrobots.com/2010/6/6/serving-up-django-with-tornado/>
+2020-11-15 14:11:21 [scrapy.spidermiddlewares.offsite] DEBUG: Filtered offsite request to 'swizec.com': <GET http://swizec.com/blog/benchmarking-node-tornado-and-django-for-concurrency/swizec/1616>

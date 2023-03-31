@@ -1,0 +1,5 @@
+exercises:
+    '01_Wyszukanie adresów stron WWW': { max_points: 0, disabled: true }
+    '02_Poprawnie pobrane strony': { max_points: 0, disabled: true }
+    '03_Elementy grupujące': { max_points: 0, disabled: true }
+    '04_Podmiana elementów': { max_points: 0, disabled: true }

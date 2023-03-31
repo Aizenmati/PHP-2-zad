@@ -1,0 +1,5 @@
+exercises:
+    '01_Różnica czasów': { max_points: 0, disabled: true }
+    '02_Konwersja czasu': { max_points: 0, disabled: true }
+    '03_Dzień urodzin': { max_points: 0, disabled: true }
+    '04_Następna dekada': { max_points: 0, disabled: true }
